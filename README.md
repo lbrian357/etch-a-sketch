@@ -1,2 +1,2 @@
 # etch-a-sketch
-javascript and jquery project
+javascript and jquery project by Brian
