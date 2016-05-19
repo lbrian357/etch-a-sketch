@@ -1,3 +1,17 @@
-p {
-	color:blue;
+div {
+
+	border:0;
+	padding:0px;
 }
+
+table {
+	border:1px solid black;
+	border-spacing:0;
+}
+
+td {
+	border:0;
+	border-spacing:0;
+	padding:0;
+}
+
